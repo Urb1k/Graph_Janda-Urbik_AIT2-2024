@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph_Janda_AIT2-2024", "Graph_Janda_AIT2-2024\Graph_Janda_AIT2-2024.csproj", "{0DAC7931-57A5-4133-B494-03C8BAAF7E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DAC7931-57A5-4133-B494-03C8BAAF7E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAC7931-57A5-4133-B494-03C8BAAF7E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAC7931-57A5-4133-B494-03C8BAAF7E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAC7931-57A5-4133-B494-03C8BAAF7E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F74C20B-DB55-44D9-AB22-57FBEE2068AE}
+	EndGlobalSection
+EndGlobal
